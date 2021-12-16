@@ -350,7 +350,7 @@ class: inverse, center, middle
 
 # Simulation Models 1 - 2
 
-- Plot of simulation models 5 and 6 <sup>*</sup>: 
+- Plot of simulation models 1 and 2 <sup>*</sup>: 
 
 - Outliers in orange
 ````{r, eval=T, echo=F, fig.retina = 2, out.width = "100%", fig.align='center'}
@@ -362,7 +362,7 @@ knitr::include_graphics("gfx/model1-2.png")
 ---
 # Results Models 1 - 2
 
-- Data were generated from Model 5 and Model 6
+- Data were generated from Model 1 and Model 2
 
 - Each data contains 300 curves with 10% outliers. Curves evaluated on 60 domain points
 
@@ -394,7 +394,7 @@ knitr::include_graphics("gfx/model3-4.png")
 ---
 # Results Models 3 - 4
 
-- Data were generated from Model 5 and Model 6
+- Data were generated from Model 3 and Model 4
 
 - Each data contains 300 curves with 10% outliers. Curves evaluated on 60 domain points
 
